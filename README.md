@@ -2,16 +2,16 @@
 
 ## General Info
 
-@ Author: z-t-y
-@ Email: <ZhouTianyou11@gamil.com>
-@ License: MIT License
-@ website: <https://github.com/z-t-y>
+@ Author: z-t-y  
+@ Email: <ZhouTianyou11@gamil.com>  
+@ License: MIT License  
+@ website: <https://github.com/z-t-y>  
 
 ## Exaple Code Source
 
-本GitHub存储库的代码来自《Python3网络爬虫开发实战》一书
-官方源代码库：<https://github.com/Python3WebSpider>
-图灵社区主页：<http://www.ituring.cn/book/2003>
+本GitHub存储库的代码来自《Python3网络爬虫开发实战》一书  
+官方源代码库：<https://github.com/Python3WebSpider>  
+图灵社区主页：<http://www.ituring.cn/book/2003>  
 
 ## MIT License
 
