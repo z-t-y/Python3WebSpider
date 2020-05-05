@@ -27,3 +27,11 @@ print(type(soup.select('ul')[0]))
 
 for ul in soup.select('ul'):
     print(ul.select('li'))
+
+for ul in soup.select('ul'):
+    print(ul['id'])
+    print(ul.attrs['id'])
+
+for li in soup.select('li'):
+    print('Get Text:', li.get_text())
+    print('String:', li.string)
