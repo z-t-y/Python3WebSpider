@@ -1,0 +1,15 @@
+from pyquery import PyQuery as pq
+doc = pq(filename='demo3.html')
+li = doc('li:first-child')
+print(li)
+li = doc('li:last-child')
+print(li)
+li = doc('li:nth-child(2)')
+print(li)
+li = doc('li:gt(2)')
+print(li)
+li = doc('li:nth-child(2n)')
+print(li)
+li = doc('li:contains(second)')
+print(li)
+
